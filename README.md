@@ -11,15 +11,15 @@
 <br />
 <br />
 
-Hi there, I'm **Mohammed FELLAH**, an **IT Architect & Blockchain Developer**, who loves building products on Ethereum blockchain. I’d love to combine my passion and lifelong journey in the field of technology. I'm committed to progressively providing solutions through Dapp, Defi, NFT, and smart contracts to the client as a tech professional. Courageous enough to transform my career from the financial industry to the Software industry.
+Hi there, I'm **Mohammed FELLAH**, an **IT Architect & Blockchain Developer**, who loves building products on Ethereum blockchain. I’d love to combine my passion and lifelong journey in the field of technology.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
 
-- 🌱 I’m a fast learner as try to adopt a new tech in every month; 
-- 🤔 My interests are with Understanding new Technologies and use them for Impactfull and Secure Projects;
+- 🌱 I’m a fast learner, i try to adopt new techs constantly; 
+- 🤔 My interests are with Understanding new Technologies and use them for Impactfull projects;
 - 💼 I’m Master of Science with IT Diploma.
 - 📫 Please email via [fellahmohammed@icloud.com](fellahmohammed@icloud.com).
 - 📝 See my [Resume](https://www.linkedin.com/in/mohammedfellah/) to get more info.
